@@ -1,4 +1,4 @@
-# CitiBikes trips-2015-2019
+# CitiBikes trips data visualization
 Citi Bikes New Jersey - New York City urban trips from 2015 to 2019 visualizations and analysis.
 <br>Data [source](https://www.citibikenyc.com/system-data)
 
